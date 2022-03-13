@@ -1,6 +1,7 @@
 # startup_investment_study
 This notebook tries to investigate the Crunchbase 2013 Snapshot dataset to extract information about which features distinguish the succesful startups from the failed ones.
 > [Kaggle Notebook Link](https://www.kaggle.com/alejandromorales1/startup-investments)
+
 > [Data source](https://www.kaggle.com/justinas/startup-investments)
 
 ### Context
